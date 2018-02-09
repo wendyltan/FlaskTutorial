@@ -1,0 +1,5 @@
+.eggs/
+.idea/
+flaskr.egg-info/
+
+
